@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "project-flood",
+      "description": "Smart flood resistance system prototype",
+      "imageUrl": "https://picsum.photos/seed/flood/800/600",
+      "imageHint": "flood protection technology"
+    },
+    {
+      "id": "project-clock",
+      "description": "Digital clock interface",
+      "imageUrl": "https://picsum.photos/seed/clock/800/600",
+      "imageHint": "digital clock"
+    },
+    {
+      "id": "project-tictactoe",
+      "description": "Tic Tac Toe game interface",
+      "imageUrl": "https://picsum.photos/seed/game/800/600",
+      "imageHint": "game interface"
+    },
+    {
+      "id": "project-connect4",
+      "description": "Connect Four game board",
+      "imageUrl": "https://picsum.photos/seed/board/800/600",
+      "imageHint": "strategy game"
+    },
+    {
+      "id": "project-snake",
+      "description": "Classic snake game screen",
+      "imageUrl": "https://picsum.photos/seed/snake/800/600",
+      "imageHint": "retro game"
+    },
+    {
+      "id": "profile-pic",
+      "description": "Professional student profile photo",
+      "imageUrl": "https://picsum.photos/seed/student/400/400",
+      "imageHint": "professional student"
+    }
+  ]
+}
